@@ -11,4 +11,4 @@ Steps Include:
 - Partitioning train and test sets for both the feature and response variable datasets
 - Training the model
 - Optimizing the k value and plotting the elbow chart
-- Calculating the mislcassification error and accuracy rates (94% accuracy, 5.8% misclassification rate)
+- Calculating the optimal k value's knn model mislcassification error and accuracy rates (94% accuracy, 5.8% misclassification rate)
